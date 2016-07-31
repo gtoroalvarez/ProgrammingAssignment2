@@ -1,8 +1,8 @@
-## I created the makeCacheMatrix based on the exaple given for the vector - used a matrix and inverse function instead. 
+## I created the makeCacheMatrix based on the example given for the vector - used a matrix and inverse function instead 
 ##to make it run I used the following input
 ## testmatrix <-makeCacheMatrix()  to store the function in a matrix variable
 ## testmatrix$set(matrix(1:4,2,2)) to create a square matrix
-##I could have done  testmatrix <- makeCacheMatrix(matrix(1:4,2,2)) instead but I rather dis it in 2 steps
+##I could have done  testmatrix <- makeCacheMatrix(matrix(1:4,2,2)) instead but I rather did it in 2 steps
 ## then run cacheSolve(testmatrix)
 
 ## Write a short comment describing this function
